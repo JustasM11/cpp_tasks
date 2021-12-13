@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ -o module05HWtask09-2 homeWorks/module05/module05HWtask09-2.cpp && ./module05HWtask09-2"
